@@ -96,8 +96,6 @@ I'm a EEE sophomore, passionate developer and researcher exploring the intersect
 
 ## 🌐 Connect with Me
 
-- 🔗 [LinkedIn](https://www.linkedin.com/)
-- 🌍 Personal Website: *(Coming Soon)*
 - ✉️ Reach me via GitHub issues or discussions
 
 ---
