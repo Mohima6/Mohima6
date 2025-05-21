@@ -100,4 +100,4 @@ I'm a EEE sophomore, passionate developer and researcher exploring the intersect
 
 ---
 
-> 💡 *“Code is the language I use to build the world I imagine.”*  
+> 💡 *“Code is one of the languages I use to build the world I imagine.”*  
