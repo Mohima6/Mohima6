@@ -102,11 +102,6 @@ I'm a passionate EEE Sophomore, developer and researcher exploring the intersect
 
 ---
 
-## 🏆 GitHub Trophies
-
-[![trophy](https://github-profile-trophy.vercel.app/?username=Mohima6&theme=onedark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
-
----
 
 ## 🌐 Connect with Me
 
