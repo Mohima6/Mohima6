@@ -1,9 +1,12 @@
-
 # 👋 Hi, I'm Mohima!
 
-Welcome to my GitHub profile!
+![visitors](https://komarev.com/ghpvc/?username=Mohima6&color=blue&style=flat-square)
 
-I'm a EEE sophomore, passionate developer and researcher exploring the intersection of **machine learning**, **robotics**, **IoT**, and **software engineering**. I love turning innovative ideas into functional code—whether it's a brain-controlled robot or a Java-based Pac-Man game!
+<div align="center">
+  <img src="https://github.com/Mohima6/profile-assets/blob/main/banner.gif" width="100%" alt="Banner image with dino and girl coding"/>
+</div>
+
+I'm a passionate EEE Sophomore, developer and researcher exploring the intersection of **machine learning**, **robotics**, **IoT**, **simulations** and **Autonomous systems**. I love turning innovative ideas into functional code—whether it's a brain-controlled robot or a Java-based game!
 
 ---
 
@@ -24,80 +27,87 @@ I'm a EEE sophomore, passionate developer and researcher exploring the intersect
 ### 🧠 AI & ML Projects
 
 - **[Brain-Controlled Robotics for Astronauts](https://github.com/Mohima6/BrainControlledRoboticsForAstronauts--ML-project-predictions-for-paperwork)**  
-  Machine learning predictions for brain-computer interface control, designed for robotic support in astronautics.
+  ML predictions for brain-computer interface control, designed for robotic support in astronautics.
 
 - **[Neurobot RL Training](https://github.com/Mohima6/neurobot-ml-for-paperwork-rl-training)**  
-  Reinforcement learning-based model training to assist with paperwork automation using neuro-symbolic AI.
+  RL-based training to assist with paperwork automation using neuro-symbolic AI.
 
 - **[UAV Path Planning](https://github.com/Mohima6/UAVpathplanning)**  
-  Simulation of optimal drone navigation and pathfinding using Python and intelligent planning algorithms.
+  Optimal drone navigation and pathfinding simulation using Python.
 
 - **[UAV ML Project](https://github.com/Mohima6/UAV-ML-PROJECT)**  
-  A machine learning-focused project analyzing UAV movement patterns and control strategies.
+  ML analysis of UAV movement patterns and control strategies.
 
 ---
 
 ### 🕹️ Python Games
 
 - **[Chrome Dino](https://github.com/Mohima6/Chrome-Dino)**  
-  A Python recreation of the classic Chrome Dino game with enhancements. Great example of game logic, animation, and event handling in Python.
+  🦖 A Python clone of the Chrome Dino game. Even if you're offline, this dino never stops running — unlike my caffeine supply ☕.
 
 ---
 
 ### 🔬 Research & Paperwork Automation
 
 - **[Geothermal Energy ML](https://github.com/Mohima6/geothermal-energy-ml-paperwork)**  
-  Uses machine learning to assess geothermal potential and energy modeling for research support.
+  Machine learning models for geothermal energy research and assessment.
 
 - **[Quantum Photonics Paperwork](https://github.com/Mohima6/QuantumPhotonics-paperwork)**  
-  A Python-based toolkit for modeling and analyzing quantum photonics systems.
+  Python toolkit for modeling and analyzing quantum photonics systems.
 
-- **[Brain-Controlled Robotics (Alt Version)](https://github.com/Mohima6/Brain-Controlled-Robotics-ML-predictions-for-paperwork-)**  
-  Alternative iteration of brain-computer interface ML prediction for robotic systems.
+- **[Brain-Controlled Robotics (Alt)](https://github.com/Mohima6/Brain-Controlled-Robotics-ML-predictions-for-paperwork-)**  
+  Alternate approach to brain-computer interface predictions.
 
 ---
 
 ### 💻 Java Projects
 
 - **[Run-Pacman](https://github.com/Mohima6/Run-Pacman)**  
-  A fully coded Java-based Pac-Man game with player and AI-controlled ghost modes.
+  Java-based Pac-Man game with both player and AI-controlled ghosts.
 
 - **[Multigaming](https://github.com/Mohima6/Multigaming)**  
-  My first Java game project—features multiple game types in a single package.
+  My first multi-game Java project. Chaos meets creativity.
 
 - **[Bank Management System](https://github.com/Mohima6/Bank-Management-System)**  
-  CLI-based Java project simulating basic banking operations.
+  CLI Java app simulating core banking operations.
 
 - **[Calculator.java](https://github.com/Mohima6/Calculator.java)**  
-  A simple yet efficient calculator implemented in Java.
+  Efficient calculator written in Java.
 
 ---
 
 ### 📚 CS Concepts & Algorithms
 
 - **[DSA Complexities](https://github.com/Mohima6/DSA-complexities)**  
-  A unique Java project that teaches time and space complexities through code.
+  Time & space complexity project coded in Java for mastering DSA.
 
 ---
 
 ### 🤖 Hardware & IoT
 
 - **[STM32 Line Follower (Fork)](https://github.com/Mohima6/STM32-Line-Follower-with-PID)**  
-  Implemented PID control on STM32 microcontroller for autonomous line following using QTR sensors.
+  PID control implementation for STM32-based autonomous line follower.
 
 ---
 
-## 📈 GitHub Stats
+## 📊 GitHub Stats
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohima6&show_icons=true&theme=radical)
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohima6&layout=compact&theme=radical)
+![GitHub Streak](https://streak-stats.demolab.com/?user=Mohima6&theme=radical&hide_border=true)
+
+---
+
+## 🏆 GitHub Trophies
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohima6&theme=onedark&no-frame=true&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 
 ---
 
 ## 🌐 Connect with Me
-
 - ✉️ Reach me via GitHub issues or discussions
 
 ---
 
-> 💡 *“Code is one of the languages I use to build the world I imagine.”*  
+> 💡 *“Code is one of the languages I use to build the world I imagine.”*
+
