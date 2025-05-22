@@ -6,25 +6,29 @@
   <img src="https://github.com/Mohima6/profile-assets/blob/main/banner.gif" width="100%" alt="Banner image with dino and girl coding"/>
 </div>
 
-I'm a passionate EEE Sophomore, developer and researcher exploring the intersection of **machine learning**, **robotics**, **IoT**, **simulations** and **Autonomous systems**. I love turning innovative ideas into functional code—whether it's a brain-controlled robot or a Java-based game!
+I'm a passionate EEE Sophomore, developer and researcher exploring the intersection of **machine learning**, **robotics**, **IoT**, **simulations**, and **Autonomous systems**. I love turning innovative ideas into functional code—whether it's a brain-controlled robot or a Java-based game!
 
 ---
 
 ## 🔧 Languages & Tools
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=java&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white)
-![Android](https://img.shields.io/badge/Android-3DDC84?style=flat-square&logo=android&logoColor=white)
-![STM32](https://img.shields.io/badge/STM32-03234B?style=flat-square&logo=stmicroelectronics&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VSCode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+[<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30" style="margin-right:8px"/>](https://www.oracle.com/java/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" style="margin-right:8px"/>](https://www.python.org/) 
+[<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="30" style="margin-right:8px"/>](https://www.jetbrains.com/pycharm/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="30" style="margin-right:8px"/>](https://isocpp.org/) 
+[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="30" style="margin-right:8px"/>](https://developer.android.com/) 
+[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Git" width="40" title="Git" />](https://git-scm.com/)&nbsp;&nbsp;
+
+
+
 
 ---
 
 ## 🚀 Projects Showcase
 
-### 🧠 AI & ML Projects
+### 🧠 AI & ML Project
+
+
 
 - **[Brain-Controlled Robotics for Astronauts](https://github.com/Mohima6/BrainControlledRoboticsForAstronauts--ML-project-predictions-for-paperwork)**  
   ML predictions for brain-computer interface control, designed for robotic support in astronautics.
@@ -105,7 +109,8 @@ I'm a passionate EEE Sophomore, developer and researcher exploring the intersect
 ---
 
 ## 🌐 Connect with Me
-- ✉️ Reach me via GitHub issues or discussions
+
+- ✉️ Reach me via GitHub issues or discussions 
 
 ---
 
