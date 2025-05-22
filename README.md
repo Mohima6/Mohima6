@@ -104,9 +104,6 @@
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohima6&layout=compact&theme=radical)
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Mohima6&theme=radical&hide_border=true)
 
----
-
-
 ## 🌐 Connect with Me
 
 - ✉️ Reach me via GitHub issues or discussions 
