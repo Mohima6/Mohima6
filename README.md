@@ -1,5 +1,13 @@
 # 👋 Hi, I'm Mohima!
 
+<div style="display: flex; justify-content: space-between; align-items: center; width: 100%;">
+  <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="600" />
+
+</div>
+
+
+
+
 ![visitors](https://komarev.com/ghpvc/?username=Mohima6&color=blue&style=flat-square)
 
 <div align="center">
