@@ -11,17 +11,64 @@
   </tr>
 </table>
 
-
-
-
 ## 🔧 Languages & Tools
 
-[<img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="30" style="margin-right:8px"/>](https://www.oracle.com/java/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="30" style="margin-right:8px"/>](https://www.python.org/) 
-[<img src="https://resources.jetbrains.com/storage/products/pycharm/img/meta/pycharm_logo_300x300.png" alt="PyCharm" width="30" style="margin-right:8px"/>](https://www.jetbrains.com/pycharm/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="30" style="margin-right:8px"/>](https://isocpp.org/) 
-[<img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="30" style="margin-right:8px"/>](https://developer.android.com/) 
-[<img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Git" width="40" title="Git" />](https://git-scm.com/)&nbsp;&nbsp;
+<p align="left">
+  <!-- Java -->
+  <a href="https://www.oracle.com/java/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Python -->
+  <a href="https://www.python.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- C++ -->
+  <a href="https://isocpp.org/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- C -->
+  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- HTML -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- CSS -->
+  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Bootstrap -->
+  <a href="https://getbootstrap.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Django -->
+  <a href="https://www.djangoproject.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- Android -->
+  <a href="https://developer.android.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- VS Code -->
+  <a href="https://code.visualstudio.com/" target="_blank">
+    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40" height="40"/>
+  </a>
+  &nbsp;
+  <!-- GitHub -->
+  <a href="https://git-scm.com/" target="_blank">
+    <img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="Git" width="40" height="40"/>
+  </a>
+</p>
 
 
 
