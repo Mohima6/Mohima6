@@ -3,7 +3,7 @@
     <td valign="top" width="60%" style="border: none; padding: 0 1em 0 0;">
       <h1>👋 Hi, I'm Mohima!</h1>
       <img src="https://komarev.com/ghpvc/?username=Mohima6&color=blue&style=flat-square" alt="visitors"/>
-      <p>I'm a passionate EEE Sophomore, developer and researcher exploring the intersection of <b>machine learning</b>, <b>robotics</b>, <b>IoT</b>, <b>simulations</b>, and <b>Autonomous systems</b>. I love turning innovative ideas into functional code—whether it's a brain-controlled robot or a Java-based game!</p>
+      <p>I'm a passionate EEE undergrad exploring the intersection of <b>machine learning</b>, <b>robotics</b>, <b>IoT</b>, <b>simulations</b>, and <b>Autonomous systems</b>. I love turning innovative ideas into functional code—whether it's a brain-controlled robot or a Java-based game!</p>
     </td>
     <td valign="top" width="40%" align="center" style="border: none; padding-left: 1em;">
       <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="250" alt="Animation"/>
