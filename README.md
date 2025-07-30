@@ -102,7 +102,7 @@
 
 ---
 
-### 🔬 Research & Paperwork Automation
+### 🔬 Researchwork 
 
 - **[Geothermal Energy ML](https://github.com/Mohima6/geothermal-energy-ml-paperwork)**  
   Machine learning models for geothermal energy research and assessment.
