@@ -5,8 +5,6 @@
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohima6&label=Profile+Views&color=00FFFF&style=flat-square" alt="Profile Views"/>
-  <img src="https://img.shields.io/badge/ResearchGate-00FFFF?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/>
-  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
 </p>
 
 
