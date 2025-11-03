@@ -14,7 +14,7 @@
   <tr>
     <td width="65%" valign="middle" style="padding: 15px;">
       <p align="justify">
-      ⚡ I’m <b>Mohima Chakraborty</b>, an Electrical & Electronics Engineering undergrad exploring <b>Quantum Computing</b>, <b>AI/ML</b>, and <b>developing web/app & research projects</b>.  
+      ⚡ I’m <b>Mohima </b>, an EEE undergrad exploring <b>Quantum Computing</b>, <b>AI/ML</b>, and <b>developing web/app & research projects</b>.  
       My research passion lies in <b>bridging physics with computation</b> — from <b>quantum-enhanced chips</b> and <b>neuromorphic circuits</b> to <b>brain–machine collaboration</b> and <b>autonomous robotics</b>.  
       I aim to turn deep tech into systems that make energy, healthcare, and robotics smarter and more human-aligned.  
       </p>
