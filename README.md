@@ -1,9 +1,7 @@
 <!-- Professional README for Mohima Chakraborty -->
 <!-- Theme: Dark Tech | Neon Cyan/Violet | Quantum + AI + VLSI -->
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+I'm+Mohima+Chakraborty!;Quantum+Computing+%7C+VLSI+%7C+AI+%7C+Robotics+Researcher;Turning+Brainwaves+and+Circuits+into+Innovation" alt="Typing SVG" />
-</h1>
+
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=Mohima6&label=Profile+Views&color=00FFFF&style=flat-square" alt="Profile Views"/>
@@ -96,12 +94,6 @@
 
 ---
 
-## 🧩 Contribution Snake
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Mohima6/Mohima6/output/github-contribution-grid-snake.svg" alt="snake animation" />
-</p>
-
----
 
 ## 🌐 Connect with Me
 
@@ -112,7 +104,6 @@
   <a href="https://github.com/Mohima6"><img src="https://img.shields.io/badge/GitHub-00FFFF?style=flat&logo=github&logoColor=white"/></a>
 </p>
 
----
 
 💡 *From the classroom of circuits to the cage of Schrödinger…this is how my life goes. :)I love to code only when an idea asks to live,when ideas whisper loud enough to deserve existence.* ✨  
 
