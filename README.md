@@ -1,104 +1,125 @@
-<table style="border-collapse: collapse; border: none; width: 100%;">
+<!-- Professional README for Mohima Chakraborty -->
+<!-- Theme: Dark Tech | Neon Cyan/Violet | Quantum + AI + VLSI -->
+
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Orbitron&size=32&duration=4000&pause=1000&color=00FFFF&center=true&vCenter=true&width=800&lines=👋+Hey+there%2C+I'm+Mohima+Chakraborty!;Quantum+Computing+%7C+VLSI+%7C+AI+%7C+Robotics+Researcher;Turning+Brainwaves+and+Circuits+into+Innovation" alt="Typing SVG" />
+</h1>
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=Mohima6&label=Profile+Views&color=00FFFF&style=flat-square" alt="Profile Views"/>
+  <img src="https://img.shields.io/badge/ResearchGate-00FFFF?style=flat&logo=researchgate&logoColor=white" alt="ResearchGate"/>
+  <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+</p>
+
+
+### 🧠 About Me
+
+<table width="100%" style="border: 2px solid #00FFFF; border-radius: 10px; padding: 10px;">
   <tr>
-    <td valign="top" width="60%" style="border: none; padding: 0 1em 0 0;">
-      <h1>👋 Hi, I'm Mohima!</h1>
-      <img src="https://komarev.com/ghpvc/?username=Mohima6&color=blue&style=flat-square" alt="visitors"/>
-      <p>
-        I'm a passionate <b>EEE undergrad</b> exploring the intersection of 
-        <b>Machine Learning</b>, <b>Robotics</b>, <b>IoT</b>, 
-        <b>Simulations</b>, <b>Autonomous Systems</b>, and <b>Quantum Computing</b>. <br><br>
-        I love turning innovative ideas into functional code — whether it's a brain-controlled robot, Schrödinger’s paradox simulation, or a retro Java game!
+    <td width="65%" valign="middle" style="padding: 15px;">
+      <p align="justify">
+      ⚡ I’m <b>Mohima Chakraborty</b>, an Electrical & Electronics Engineering undergrad exploring <b>Quantum Computing</b>, <b>AI/ML</b>, and <b>developing web/app & research projects</b>.  
+      My research passion lies in <b>bridging physics with computation</b> — from <b>quantum-enhanced chips</b> and <b>neuromorphic circuits</b> to <b>brain–machine collaboration</b> and <b>autonomous robotics</b>.  
+      I aim to turn deep tech into systems that make energy, healthcare, and robotics smarter and more human-aligned.  
       </p>
     </td>
-    <td valign="top" width="40%" align="center" style="border: none; padding-left: 1em;">
-      <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="250" alt="Animation"/>
+    <td width="35%" align="center" valign="middle">
+      <img src="https://media.giphy.com/media/HQHwvSBSy7s0AXOlWt/giphy.gif" width="250" alt="Animation" style="border-radius:10px; border: 1px solid #00FFFF;"/>
     </td>
   </tr>
 </table>
 
 ---
 
-## 🔧 Languages & Tools
 
-<p align="left">
-  <!-- Programming Languages -->
-  <a href="https://www.oracle.com/java/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/en/3/30/Java_programming_language_logo.svg" alt="Java" width="40"/></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/c/c3/Python-logo-notext.svg" alt="Python" width="40"/></a>
-  <a href="https://isocpp.org/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/18/ISO_C%2B%2B_Logo.svg" alt="C++" width="40"/></a>
-  <a href="https://en.wikipedia.org/wiki/C_(programming_language)" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/1/19/C_Logo.png" alt="C" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/6/6a/JavaScript-logo.png" alt="JavaScript" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" alt="HTML5" width="40"/></a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" alt="CSS3" width="40"/></a>
-  <a href="https://getbootstrap.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-plain.svg" alt="Bootstrap" width="40"/></a>
-  <a href="https://react.dev/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40"/></a>
-  <a href="https://expressjs.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/express/express-original.svg" alt="Express.js" width="40"/></a>
-  <a href="https://www.djangoproject.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="Django" width="40"/></a>
-  <a href="https://nodejs.org/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40"/></a>
-  <a href="https://developer.android.com/" target="_blank"><img src="https://upload.wikimedia.org/wikipedia/commons/d/d7/Android_robot.svg" alt="Android" width="40"/></a>
-  <a href="https://code.visualstudio.com/" target="_blank"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" alt="VS Code" width="40"/></a>
-  <a href="https://github.com/" target="_blank"><img src="https://github.githubassets.com/images/modules/logos_page/GitHub-Mark.png" alt="GitHub" width="40"/></a>
+## ⚙️ Tech Stack
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,cpp,c,matlab,javascript,html,css,react,nodejs,django,mongodb,mysql,bootstrap,git,github,vscode,androidstudio" />
 </p>
 
+---
+
+## 🧩 Domains & Interests
+
+| Category | Focus Areas |
+|-----------|--------------|
+| 🧬 **AI & ML** | ML, DL, RL, DRL, NLP,LLM |
+| ⚛️ **Quantum Computing** | Quantum Circuits, QML, QKD, Quantum Photonics |
+| 🦾 **Robotics** | BCI, UAVs, Path Planning, Sensor Fusion |
+| 🧠 **VLSI / Neuromorphic Chips** | Analog-Memristor Design, Quantum CMOS, Brain-inspired Processing |
+| 🔋 **Power Systems** | Smart Grids, Quantum-enhanced Load Management |
+| 🌐 **Web/App Dev** | JS-based full stack development, Android(Java), Flutter(Dart)|
 
 ---
 
 ## 🚀 Featured Projects
 
-### 🧠 AI & ML
-
-- 🔗 [Brain-Controlled Robotics for Astronauts](https://github.com/Mohima6/BrainControlledRoboticsForAstronauts--ML-project-predictions-for-paperwork) – ML predictions for BCI-controlled space robotics.  
-- 🔗 [Neurobot RL Training](https://github.com/Mohima6/neurobot-ml-for-paperwork-rl-training) – RL-based automation for paperwork via neuro-symbolic AI.  
-- 🔗 [UAV ML Project](https://github.com/Mohima6/UAV-ML-PROJECT) – Analyzing UAV control strategies via ML.  
-- 🔗 [UAV Path Planning](https://github.com/Mohima6/UAVpathplanning) – Optimal drone navigation and obstacle avoidance.
-
-### 🕹️ Python Games
-
-- 🦖 [Chrome Dino](https://github.com/Mohima6/Chrome-Dino) – Your favorite offline runner, now in Python!
-
-### 🔬 Research Highlights
-
-- 🔬 [Geothermal Energy Prediction](https://github.com/Mohima6/geothermal-energy-ml-paperwork) – ML-powered geothermal forecasting.  
-- 🔭 [Quantum Photonics](https://github.com/Mohima6/QuantumPhotonics-paperwork) – Quantum-inspired modeling for national grid efficiency.  
-- 🧠 [Alt Brain-Controlled Robotics](https://github.com/Mohima6/Brain-Controlled-Robotics-ML-predictions-for-paperwork-) – Alternate BCI prediction modeling.
+### 🧠 Artificial Intelligence & Machine Learning
+- 🔗 [**Brain-Controlled Robotics for Astronauts**](https://github.com/Mohima6/BrainControlledRoboticsForAstronauts--ML-project-predictions-for-paperwork) — ML-powered BCI for space mobility.  
+- 🔗 [**Neurobot RL Training**](https://github.com/Mohima6/neurobot-ml-for-paperwork-rl-training) — Reinforcement learning-driven robotics automation.  
+- 🔗 [**UAV Path Planning**](https://github.com/Mohima6/UAVpathplanning) — Optimal drone navigation using hybrid ML approaches.
 
 ### ☕ Java Projects
+- 🎮 [**Run-Pacman**](https://github.com/Mohima6/Run-Pacman) — AI ghost behavior and dynamic pathfinding.  
+- 🕹️ [**Multigaming**](https://github.com/Mohima6/Multigaming) — A Java arcade of classic games.  
+- 🏦 [**Bank Management System**](https://github.com/Mohima6/Bank-Management-System) — Core banking simulation with data integrity.  
 
-- 👻 [Run-Pacman](https://github.com/Mohima6/Run-Pacman) – Java-based Pacman with AI ghosts and player mode.  
-- 🎮 [Multigaming](https://github.com/Mohima6/Multigaming) – Java arcade-style multiple games in one app.  
-- 🏦 [Bank Management System](https://github.com/Mohima6/Bank-Management-System) – Command-line based core banking simulator.  
-- 🧮 [Calculator.java](https://github.com/Mohima6/Calculator.java) – Lightweight but powerful calculator in Java.
+### 🔬 Research Highlights
+- 🌞 [**Photonics for PV Efficiency**](https://github.com/Mohima6/QuantumPhotonics-paperwork) — Quantum Dot-inspired ML for photovoltaic optimization.  
+- 🌋 [**Geothermal Energy Prediction**](https://github.com/Mohima6/geothermal-energy-ml-paperwork) — ML forecasting for sustainable geothermal planning.  
+- 🧠 [**Exovision-AI**](https://github.com/Mohima6/EXOVISION-ai) — Finding exoplanents for exploring more and more about them.
 
-### 📚 CS Concepts
-
-- 📈 [DSA Complexities](https://github.com/Mohima6/DSA-complexities) – Mastering time & space complexities through code.
-
-### 🤖 IoT & Hardware
-
-- 🚗 [STM32 Line Follower](https://github.com/Mohima6/STM32-Line-Follower-with-PID) – PID-based control with STM32 microcontroller.
+### ⚙️ Hardware & IoT
+- 🚗 [**STM32 Line Follower with PID**](https://github.com/Mohima6/STM32-Line-Follower-with-PID) — PID control system for real-time path tracking.  
 
 ---
 
-## 🌍 Achievements:
-- 🏆 **Quickdraw** – PR merged within 24 hours
-- 🦈 **Pull Shark** – Multiple PRs merged
-
-I contribute to projects that solve real-world problems while learning and growing in the open-source community.
+## 🔭 Quick Snapshot
+- **Student Researcher** — *East Delta University* (Feb 2025 – Present)  
+- **Student Intern** — *Sky Forge Aerospace* (Mar–May 2025): UAV navigation & RL stacks  
+- **Accepted Publications:** *SocPros 2025 (IIT Roorkee)* & *ICCCNT 2025 (IIT Indore)*  
+- **Scholarships / Programs:** *WISER* & *Womanium Global Quantum Scholar 2025*  
+- **OSS Contributor:** *GirlScript Summer of Code (GSSoC '25)*
 
 ---
 
-## 📊 GitHub Stats
+## 📊 GitHub Analytics
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Mohima6&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohima6&layout=compact&theme=radical)
-![GitHub Streak](https://streak-stats.demolab.com/?user=Mohima6&theme=radical&hide_border=true)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=Mohima6&show_icons=true&theme=radical&title_color=00FFFF&icon_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" width="48%" />
+  <img src="https://streak-stats.demolab.com?user=Mohima6&theme=radical&hide_border=true&ring=00FFFF&fire=00FFFF&currStreakLabel=FFFFFF" width="48%" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mohima6&layout=compact&theme=radical&title_color=00FFFF&text_color=FFFFFF&bg_color=0d1117" width="50%" />
+</p>
+
+---
+
+## 🧩 Contribution Snake
+<p align="center">
+  <img src="https://raw.githubusercontent.com/Mohima6/Mohima6/output/github-contribution-grid-snake.svg" alt="snake animation" />
+</p>
 
 ---
 
 ## 🌐 Connect with Me
 
-- 💬 Open an issue or discussion on any of my projects!
-- 🧠 Let’s collaborate on open-source, simulations, robotics, or BCI.
+<p align="center">
+  <a href="mailto:chakrabortymohima429@gmail.com"><img src="https://img.shields.io/badge/Email-00FFFF?style=flat&logo=gmail&logoColor=white"/></a>
+  <a href="https://www.linkedin.com/in/mohima-chakraborty-537593298"><img src="https://img.shields.io/badge/LinkedIn-00FFFF?style=flat&logo=linkedin&logoColor=white"/></a>
+  <a href="https://www.researchgate.net/profile/Mohima-Chakraborty"><img src="https://img.shields.io/badge/ResearchGate-00FFFF?style=flat&logo=researchgate&logoColor=white"/></a>
+  <a href="https://github.com/Mohima6"><img src="https://img.shields.io/badge/GitHub-00FFFF?style=flat&logo=github&logoColor=white"/></a>
+</p>
 
 ---
 
-> 💡 *“From classroom of circuits to the cage of Schrodinger's cat :): ”*
+💡 *From the classroom of circuits to the cage of Schrödinger…this is how my life goes. :)I love to code only when an idea asks to live,when ideas whisper loud enough to deserve existence.* ✨  
+
+🤝 *Would love to connect and contribute! Wait, wait…If you wanna guide or contribute to my projects too,Just a fork away, and we’ll shine together! 🌟  
+
+👋 *Bye, dreamer! Enough scrolling…  Now go back to your table and work hard to fulfill your dreams!* 💪  
+
+💫 *And hey — before you leave, remember:*  You’re not fighting alone. Somewhere out there,  someone’s quietly cheering for your dreams. 💖  Keep going, my friend. Fight till your last sigh.The world moves because people like you dare to believe. 🌍  
+
+🎉 *BEST OF LUCK!"*
