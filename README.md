@@ -14,9 +14,7 @@
   <tr>
     <td width="65%" valign="middle" style="padding: 15px;">
       <p align="justify">
-      ⚡ I’m <b>Mohima </b>, an EEE undergrad exploring <b>Quantum Computing</b>, <b>AI/ML</b>, and <b>developing web/app & research projects</b>.  
-      My research passion lies in <b>bridging physics with computation</b> — from <b>quantum-enhanced chips</b> and <b>neuromorphic circuits</b> to <b>brain–machine collaboration</b> and <b>autonomous robotics</b>.  
-      I aim to turn deep tech into systems that make energy, healthcare, and robotics smarter and more human-aligned.  
+      ⚡ I’m <b>Mohima </b>, exploring <b>Quantum Computing</b>, <b>AI/ML</b>, and <b>developing web/app & research projects</b>.   
       </p>
     </td>
     <td width="35%" align="center" valign="middle">
