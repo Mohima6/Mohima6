@@ -78,7 +78,9 @@
 
 - [**UAV Path Planning**](https://github.com/Mohima6/UAVpathplanning)  
 
-
+### ⚛️ Quantum Computing 
+- [**QuantumPES**](https://github.com/Mohima6/QuantumPES)  
+  
 ### ☕ Java Projects
 - 🎮 [**Run-Pacman**](https://github.com/Mohima6/Run-Pacman) — AI ghost behavior and dynamic pathfinding.  
 - 🕹️ [**Multigaming**](https://github.com/Mohima6/Multigaming) — A Java arcade of classic games.  
