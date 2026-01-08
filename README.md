@@ -65,9 +65,19 @@
 ## 🚀 Featured Projects
 
 ### 🧠 Artificial Intelligence & Machine Learning
-- 🔗 [**Brain-Controlled Robotics for Astronauts**](https://github.com/Mohima6/BrainControlledRoboticsForAstronauts--ML-project-predictions-for-paperwork) — ML-powered BCI for space mobility.  
-- 🔗 [**Neurobot RL Training**](https://github.com/Mohima6/neurobot-ml-for-paperwork-rl-training) — Reinforcement learning-driven robotics automation.  
-- 🔗 [**UAV Path Planning**](https://github.com/Mohima6/UAVpathplanning) — Optimal drone navigation using hybrid ML approaches.
+
+- [**NeuroRhythm-AI**](https://github.com/Mohima6/NeuroRhythm-AI)  
+
+- [**Ice Hockey Performance Analysis**](https://github.com/Mohima6/Ice-hockey-analysis)  
+
+- [**AI Ad Performance Optimizer**](https://github.com/Mohima6/AI-Ad-Performance-Optimizer)  
+
+- [**Brain-Controlled Robotics for Astronauts**](https://github.com/Mohima6/BrainControlledRoboticsForAstronauts--ML-project-predictions-for-paperwork)  
+
+- [**Neurobot RL Training**](https://github.com/Mohima6/neurobot-ml-for-paperwork-rl-training)  
+
+- [**UAV Path Planning**](https://github.com/Mohima6/UAVpathplanning)  
+
 
 ### ☕ Java Projects
 - 🎮 [**Run-Pacman**](https://github.com/Mohima6/Run-Pacman) — AI ghost behavior and dynamic pathfinding.  
