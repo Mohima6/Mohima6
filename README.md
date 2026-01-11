@@ -98,7 +98,7 @@
 
 ## 🔭 Quick Snapshot
 - **Student Researcher** — *East Delta University* (Feb 2025 – Present)  
-- **Student Intern** — *Sky Forge Aerospace* (Mar–May 2025): UAV navigation & RL stacks  
+- **ML Intern** — *Sky Forge Aerospace* (Mar–May 2025): UAV navigation & RL stacks  
 - **Accepted Publications:** *SocPros 2025 (IIT Roorkee)* & *ICCCNT 2025 (IIT Indore)*  
 - **Scholarships / Programs:** *WISER* & *Womanium Global Quantum Scholar 2025*  
 - **OSS Contributor:** *GirlScript Summer of Code (GSSoC '25)*
