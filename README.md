@@ -75,7 +75,8 @@
 
 - [**Neurobot RL Training**](https://github.com/Mohima6/neurobot-ml-for-paperwork-rl-training)  
 
-- [**UAV Path Planning**](https://github.com/Mohima6/UAVpathplanning)  
+- [**UAV Path Planning**](https://github.com/Mohima6/UAVpathplanning)
+- [**Neurolink-Nexus**](https://github.com/Mohima6/Research-paper-Neurolink-Nexus)
 
 ### ⚛️ Quantum Computing 
 - [**QuantumPES**](https://github.com/Mohima6/QuantumPES)  
